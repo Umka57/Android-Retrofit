@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pr13</string>
+    <string name="error_warn">Не удалось загрузить список стран</string>
+</resources>
